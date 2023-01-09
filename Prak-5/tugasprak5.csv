@@ -1,0 +1,15 @@
+﻿sepal.length;sepal.width;species
+5.4;3.7;setosa
+7.2;3.2;virginica
+5.4;3.7;setosa
+5.5;3.3;setosa
+5.4;3.9;setosa
+7.1;2.8;virginica
+6.1;2.8;versicolor
+7.2;2.9;virginica
+6.1;2.7;versicolor
+5.8;2.8;virginica
+6.9;2.3;versicolor
+5.1;2.7;versicolor
+6.3;2.4;versicolor
+5.4;2.3;versicolor
