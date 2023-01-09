@@ -1,0 +1,15 @@
+cuaca,suhu,kelembaban,berangin,bermain
+cerah,panas,Tinggi,salah,tidak
+cerah,panas,Tinggi,benar,tidak
+berawan,panas,Tinggi,salah,ya
+hujan,sejuk,Tinggi,salah,ya
+hujan,dingin,Normal,salah,ya
+hujan,dingin,Normal,benar,ya
+berawan,dingin,Normal,benar,ya
+cerah,sejuk,Tinggi,salah,tidak
+cerah,dingin,Normal,salah,ya
+hujan,sejuk,Normal,salah,ya
+cerah,sejuk,Normal,benar,ya
+berawan,sejuk,Tinggi,benar,ya
+berawan,panas,Normal,salah,ya
+hujan,sejuk,Tinggi,benar,tidak
